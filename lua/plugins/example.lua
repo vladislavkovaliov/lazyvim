@@ -32,7 +32,7 @@ return {
 
     -- add symbols-outline
     {
-        "simrat39/symbols-outline.nvim",
+        "simrat39/symbols-outli/e.nvim",
         cmd = "SymbolsOutline",
         keys = {
             {
@@ -278,7 +278,4 @@ return {
             })
         end,
     },
-
-    --
-    {},
 }

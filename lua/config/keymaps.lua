@@ -10,3 +10,6 @@ local opts = {
 
 -- Select all
 keymap.set("n", "<C-a>", "gg<S-v>G")
+
+-- nvim-tree
+keymap.set("n", "<F5>", ":NvimTreeToggle<CR>")
